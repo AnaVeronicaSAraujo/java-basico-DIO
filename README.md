@@ -1,10 +1,10 @@
-Desafio: Sintaxe - Criando um Projeto de Conta Bancária com Entrada de Dados via Terminal
+**Desafio: Criando um Projeto de Conta Bancária com Entrada de Dados via Terminal**
 
-Objetivo:
+**Objetivo:**
 
 Criar um projeto em Java chamado ContaBanco para armazenar informações sobre contas bancárias e permitir que os dados sejam inseridos via terminal.
 
-Requisitos:
+**Requisitos:**
 
 Criar a classe ContaTerminal.java para gerenciar todo o programa.
 
@@ -18,6 +18,6 @@ Nome do Cliente (texto)
 
 Saldo (decimal)
 
-Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:
+**Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:**
 
 "Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".
