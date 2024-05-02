@@ -17,6 +17,6 @@ Nome do Cliente (texto)
 
 Saldo (decimal)
 
-Permita que os dados sejam inseridos via terminal, solicitando ao usuário que insira cada informação.
+Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:
 
-Após todas as informações serem inseridas, exiba uma mensagem personalizada com os dados fornecidos pelo usuário.
+"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".
